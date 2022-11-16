@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnecia/React-Portfolio-Donniecia-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnecia/React-Portfolio-Donniecia-/issues"
+  },
+  "homepage": "https://github.com/dnecia/React-Portfolio-Donniecia-#readme"
+}
