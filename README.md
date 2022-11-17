@@ -7,9 +7,7 @@ The task for this challenge was to create a portfolio: This is a rough draft of 
 * [Image](#Image)
 * [About](#about)
 
-
-![alt text](./assets/images/Screen%20Shot%202022-06-24%20at%2012.31.36%20AM.png)
-[This is the link to my Portfolio] (https://github.com/dnecia/React-Portfolio-Donniecia-)
+[This is the link to my Portfolio] (https://dnecia.github.io/React-Portfolio-Donniecia-/)
 
 ## Image 
 ![screenshot of api calls](./src/assets/images/Screen%20Shot%202022-11-17%20at%2012.46.30%20AM.png)
