@@ -9,11 +9,11 @@ The task for this challenge was to create a portfolio: This is a rough draft of 
 
 
 ![alt text](./assets/images/Screen%20Shot%202022-06-24%20at%2012.31.36%20AM.png)
-[This is the link to my Portfolio] (https://dnecia.github.io/Donnieciaportfolio/)
+[This is the link to my Portfolio] (https://github.com/dnecia/React-Portfolio-Donniecia-)
 
 ## Image 
-![screenshot of api calls](./client/public/Screen%20Shot%202022-11-13%20at%205.02.00%20AM.png)
-![screenshot of api calls](./client/public/Screen%20Shot%202022-11-13%20at%205.02.20%20AM.png)
+![screenshot of api calls](./src/assets/images/Screen%20Shot%202022-06-24%20at%2012.31.36%20AM.png)
+![screenshot of api calls](./src/assets/images/Screen%20Shot%202022-11-17%20at%2012.46.30%20AM.png)
 
 
 
