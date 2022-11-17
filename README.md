@@ -1,4 +1,4 @@
-# **Module 20 Project**
+# **Module 20 Project- React Profile**
 # Summary
 The task for this challenge was to create a portfolio: This is a rough draft of my portfolio. As I gain new skills and complete more projects, I will update it, so stay tuned!
 
@@ -12,8 +12,8 @@ The task for this challenge was to create a portfolio: This is a rough draft of 
 [This is the link to my Portfolio] (https://github.com/dnecia/React-Portfolio-Donniecia-)
 
 ## Image 
-![screenshot of api calls](./src/assets/images/Screen%20Shot%202022-06-24%20at%2012.31.36%20AM.png)
 ![screenshot of api calls](./src/assets/images/Screen%20Shot%202022-11-17%20at%2012.46.30%20AM.png)
+![screenshot of api calls](./src/assets/images/Screen%20Shot%202022-11-17%20at%2012.46.51%20AM.png)
 
 
 
