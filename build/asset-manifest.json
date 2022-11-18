@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Donniecia-/static/css/main.c25a11c5.chunk.css",
-    "main.js": "/React-Portfolio-Donniecia-/static/js/main.67857404.chunk.js",
-    "main.js.map": "/React-Portfolio-Donniecia-/static/js/main.67857404.chunk.js.map",
+    "main.js": "/React-Portfolio-Donniecia-/static/js/main.36ddfecc.chunk.js",
+    "main.js.map": "/React-Portfolio-Donniecia-/static/js/main.36ddfecc.chunk.js.map",
     "runtime-main.js": "/React-Portfolio-Donniecia-/static/js/runtime-main.8426ab34.js",
     "runtime-main.js.map": "/React-Portfolio-Donniecia-/static/js/runtime-main.8426ab34.js.map",
     "static/js/2.ff983d78.chunk.js": "/React-Portfolio-Donniecia-/static/js/2.ff983d78.chunk.js",
@@ -15,12 +15,13 @@
     "static/css/main.c25a11c5.chunk.css.map": "/React-Portfolio-Donniecia-/static/css/main.c25a11c5.chunk.css.map",
     "static/js/2.ff983d78.chunk.js.LICENSE.txt": "/React-Portfolio-Donniecia-/static/js/2.ff983d78.chunk.js.LICENSE.txt",
     "static/media/my-meds.28fb25b9.gif": "/React-Portfolio-Donniecia-/static/media/my-meds.28fb25b9.gif",
+    "static/media/res-reviews.048102ba.png": "/React-Portfolio-Donniecia-/static/media/res-reviews.048102ba.png",
     "static/media/run-budy.ce745666.png": "/React-Portfolio-Donniecia-/static/media/run-budy.ce745666.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8426ab34.js",
     "static/js/2.ff983d78.chunk.js",
     "static/css/main.c25a11c5.chunk.css",
-    "static/js/main.67857404.chunk.js"
+    "static/js/main.36ddfecc.chunk.js"
   ]
 }
